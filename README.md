@@ -33,6 +33,7 @@ Ouch, that looks like a significant bruise, likely indicating a grade 1 or 2 ham
 
 ​Romanian Deadlifts (RDLs): Focus on a slow 3-second descent. Keep the bar close to your shins and only go as low as your flexibility allows while maintaining a flat back.
 ​Good Mornings: Similar to the RDL, but with the weight on your shoulders. This shifts the leverage and forces the hamstrings and lower back to work together.
+<img width="419" height="667" alt="image" src="https://github.com/user-attachments/assets/dd937099-cd71-4d95-8eba-149db90815f1" />
 
 
 ​3. Unilateral (Single Leg) Stability
