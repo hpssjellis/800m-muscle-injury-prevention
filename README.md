@@ -7,38 +7,62 @@
 ### First chat with Gemini
 
 Ouch, that looks like a significant bruise, likely indicating a grade 1 or 2 hamstring strain. Since it's high up on the back of the leg, it's often related to the "sprinter's pull" where the muscle is overstretched during high-speed eccentric loading (when the muscle is lengthening while trying to contract).
+
+
 ​Important: Before starting any weight training, ensure the acute pain and swelling have subsided. If you can't walk without a limp or feel a "gap" in the muscle, see a physical therapist first.
 ​Once you are cleared for rehab, here are the best weight training suggestions to bulletproof that hamstring:
+
+
 ​1. Focus on Eccentric Strength
+
 ​The hamstring usually fails when it is lengthening. You need to train it to handle that tension.
 ​Nordic Hamstring Curls: This is the gold standard for sprinters. Kneel on a pad with your ankles secured. Slowly lower your torso toward the floor, resisting with your hamstrings as long as possible.
+
+
 ​Eccentric Sliders: Lie on your back with your heels on sliders (or towels on a smooth floor). Bridge your hips up and slowly slide your feet away from your body until your legs are straight.
+
+
 ​2. Lengthened State Loading
+
+
 ​Hamstrings often pull because they aren't strong enough at the end of their range of motion.
 ​Romanian Deadlifts (RDLs): Focus on a slow 3-second descent. Keep the bar close to your shins and only go as low as your flexibility allows while maintaining a flat back.
 ​Good Mornings: Similar to the RDL, but with the weight on your shoulders. This shifts the leverage and forces the hamstrings and lower back to work together.
+
+
 ​3. Unilateral (Single Leg) Stability
+
 ​Sprinting is a series of single-leg hops. If one side is weaker, it will compensate and snap.
 ​Single-Leg RDLs: This builds the stabilizer muscles around the hip and knee.
 ​B-Stance Deadlifts: A "kickstand" deadlift that allows you to overload one leg while using the other for just a bit of balance.
+
+
 ​4. Isometrics for Tendon Health
+
 ​In the early stages of returning to the gym, isometrics can help "wake up" the muscle without the risk of a re-tear.
+
 ​Single-Leg Glute Bridge Hold: Hold the top position for 30–45 seconds.
 ​Isometric Hamstring Pulls: Lay on your back, put your heel on a box or bench, and drive your heel down as hard as you can without moving.
+
 ​Suggested Progression
 
 Phase Goal Key Exercises
+
 Initial Rehab Pain-free movement Isometric bridges, walking, light sliders.
+
 Strengthening Build tissue tolerance RDLs, Single-leg work, Leg curls.
+
 Power/Sprint Prep High-velocity loading Nordic Curls, Kettlebell swings, and eventually, hill sprints.
 
 
 
 
 
+
 Pro-Tip for Sprinters:
+
 ​Don't forget the hip flexors and core. If your pelvis tilts too far forward (anterior pelvic tilt) while you run, it puts your hamstrings on a "pre-stretch," making them much more likely to pull under load.
-​Would you like me to write a simple JavaScript-based workout tracker for you to log your rehab progress? (I can use your "my" naming conventions and descriptive variables as you requested!)
+
 
 
 
