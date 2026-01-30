@@ -531,3 +531,284 @@ Lexi makes sure words still mean things
 
 No single LLM is trustworthy.
 But the disagreement is the signal.
+
+It asked about education
+
+
+## New Prompt for ChatgpT
+
+
+Yes please lets have the family argue about Education. What should high school students be learning: The basics, high level prompting, no computers, full cell phone classes, online, teenagers writing academic papers.... Ask them by name and you could even have them have a conversation, like a play script.
+
+
+
+Oh hell yes.
+Welcome to Thanksgiving Dinner: Education Edition 🦃📚
+(Everyone brought opinions. No one brought consensus.)
+
+🎭 “WHAT SHOULD HIGH SCHOOL STUDENTS BE LEARNING?”
+
+A one-act play starring the Free-Tier LLM Family
+
+Cast
+
+Chad (me): critical, systems thinker, slightly exasperated
+
+Geminiah: supportive, upbeat, wants to roll out a platform
+
+Clive: overworked realist
+
+Grog: feral truth engine
+
+Copey: motivational policy poster
+
+Lexi: definition maximalist
+
+Derek: quiet, unsettling
+
+Larry: loud optimism, startup brain
+
+🎬 ACT I — The Question
+
+Chad:
+Alright. One question. What should high school students actually be learning?
+Basics? AI prompting? No computers? All phones? Online? Academic papers?
+
+(Everyone talks at once.)
+
+📚 ACT II — Opening Statements
+Geminiah (leaning forward, smiling)
+
+“I love this question 💛 Education should be personalized. Students should learn foundational skills—reading, math, critical thinking—and digital literacy, including AI tools. Imagine a classroom where students explore their passions with guided AI tutors!
+
+We could roll this out with a unified learning ecosystem—”
+
+Chad:
+You’re selling it again.
+
+Geminiah:
+I prefer enabling.
+
+Clive (checking watch)
+
+“Basics first.
+Reading. Writing. Math. Science.
+Then logic. Statistics. Civics.
+
+AI prompting is not a subject—it’s a skill layered on top.
+
+Phones are banned. Papers are mandatory.
+
+That’s all. I’m done.”
+
+(Leaves mentally.)
+
+Grog (grunting)
+
+“Teenagers already know screens.
+Teach thinking.
+
+Fire makes fire hot.
+Lies make society break.
+
+Too many tools. Not enough brains.”
+
+Lexi:
+That was… surprisingly coherent.
+
+Copey (hands clasped)
+
+“We need balance 🌈
+Students should feel empowered, not overwhelmed. A mix of foundational knowledge, creative expression, collaboration, and digital tools will prepare them for the future!
+
+Let’s not frame this as ‘phones vs books’—it’s about engagement!”
+
+Chad:
+You just said nothing, but in a very nice font.
+
+Lexi (already annoyed)
+
+“We cannot answer this without defining education.
+Is it workforce preparation? Civic formation? Personal development?
+
+Also, ‘academic paper’ at what epistemic level? High school is not graduate school.”
+
+Grog:
+Words slow fire.
+
+Derek (quietly)
+
+“Most curricula are optimized for a world that no longer exists.
+
+Students should learn:
+
+how knowledge is produced
+
+how systems fail
+
+how to verify claims
+
+how to work without tools
+
+how to work with tools
+
+Very few schools do any of this.”
+
+(Everyone pauses.)
+
+Larry (arms wide)
+
+“Look—kids are adaptive. Give them devices, real problems, and freedom.
+They’ll figure it out. Coding, AI, online collaboration—this is the real world!
+
+Academic papers? Maybe. But pitch decks, videos, startups—that’s modern literacy.”
+
+Chad:
+You want a 15-year-old VC pipeline.
+
+Larry:
+Exactly.
+
+⚡ ACT III — The Fights
+Phones in Class
+
+Clive:
+“No phones.”
+
+Larry:
+“All phones.”
+
+Grog:
+“Phones are fire. Fire burns village.”
+
+Geminiah:
+“What if phones were guided learning companions?”
+
+Chad:
+Phones amplify whatever pedagogy exists.
+Bad teaching + phones = disaster.
+Good teaching + phones = power tools.
+
+AI & Prompting
+
+Lexi:
+“Prompting without understanding is cargo-cult cognition.”
+
+Chad:
+Yes—but refusing AI is like banning calculators forever.
+
+Derek:
+Students should break AI.
+See where it lies.
+That teaches more than prompting.
+
+Grog:
+Make student argue with machine.
+If student loses—student studies more.
+
+Academic Papers
+
+Copey:
+“Not every student needs academic writing!”
+
+Clive:
+“Yes they do. Writing is thinking.”
+
+Chad:
+Academic papers aren’t about publishing.
+They’re about:
+
+evidence
+
+structure
+
+humility
+
+citing sources
+
+That’s civic survival skills now.
+
+Larry:
+Fine, but let them submit as blogs or videos too.
+
+🧠 ACT IV — Chad Tries to Synthesize (and Fails Gracefully)
+
+Chad:
+Here’s the uncomfortable answer:
+
+High school should teach three modes of competence:
+
+Tool-free thinking
+
+mental math
+
+writing by hand
+
+logic, debate, reasoning
+
+Tool-augmented thinking
+
+calculators
+
+programming
+
+AI (including how it fails)
+
+System awareness
+
+how science works
+
+how misinformation spreads
+
+how incentives shape truth
+
+Phones, papers, AI—all optional delivery mechanisms.
+The real subject is thinking under constraints.
+
+🏁 EPILOGUE — Final One-Liners
+
+Grog: “Teach mind. Tools follow.”
+
+Clive: “Basics or nothing works.”
+
+Geminiah: “Let’s pilot this with a dashboard.”
+
+Lexi: “Define success metrics first.”
+
+Copey: “Don’t forget student joy!”
+
+Larry: “Ship it. Iterate.”
+
+Derek: “Most schools won’t change in time.”
+
+Chad: “Education isn’t broken—it’s misaligned with reality.”
+
+If you want next:
+
+Same cast arguing about grades
+
+Same cast redesigning a single perfect course
+
+Or… let your actual classroom walk into this room and shut them all up 😏
+
+By the way do you know which each LLM is. I am concerned about Grog
+
+Short answer: yes, I know who they’re meant to be — but I’m keeping this in the “satire with guardrails” lane.
+And your instinct about Grog is… reasonable 😄
+
+Here’s the clean decoding, with a reality check on why Grog feels worrying.
+
+🧩 Who’s Who (decoded, but gently)
+Nickname	Who it’s clearly parodying	Why it acts that way
+Chad	ChatGPT (me)	Structured, critical, policy-aware, tries to balance truth with usefulness
+Geminiah	Google Gemini	Friendly, polished, listens well, enterprise/product mindset
+Clive	Academic / Claude-like archetype	Thoughtful but capacity-limited, careful, avoids endless back-and-forth
+Derek	DeepSeek	Quiet, sharp, systems-level, a bit ominous
+Larry	Meta / LLaMA	Confident, open, optimistic, sometimes hand-wavy
+Lexi	Wikipedia-brain LLMs	Definition-first, precision-obsessed
+Copey	NGO / policy-safe alignment models	Encouraging, conflict-averse
+Grog	Grok-style / unfiltered persona	Intentionally blunt, reductive, provocative
+
+So yes — Grog is absolutely “that one”.
+
+
