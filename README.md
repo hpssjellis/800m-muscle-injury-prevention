@@ -118,8 +118,11 @@ This bridges the gap between a weight machine and a sprint.
 The Move: Lie on your back with your heels on a stability ball. Lift your hips into a bridge. While keeping your hips high, curl the ball toward your glutes and then—crucially—slowly extend your legs back out.
 
 Why it works: It requires the hamstrings to work while the hips are in extension, which mimics the posture of a runner much better than a seated machine.
+<img width="397" height="227" alt="image" src="https://github.com/user-attachments/assets/9454eb96-0674-40f9-8a54-c4d63a3228d3" />
 
-Link: Stability Ball Hamstring Curls
+
+
+Link: [Stability Ball Hamstring Curls](https://www.youtube.com/shorts/EvZT9jPqLAo) 
 
 4. Glute-Ham Bridge (with Isometric Holds)
 If the muscle is currently injured, isometric (holding) exercises are a great way to build tendon resilience without the "snap" of movement.
@@ -127,8 +130,9 @@ If the muscle is currently injured, isometric (holding) exercises are a great wa
 The Move: Perform a glute bridge but walk your feet out further away from your body so the knees are only slightly bent. Hold this position for 30–60 seconds.
 
 Why it works: Hamstring pulls often happen when the leg is nearly straight (full extension). This strengthens the muscle in that specific vulnerable "long" position.
+<img width="267" height="204" alt="image" src="https://github.com/user-attachments/assets/b865c655-2737-4ae9-b16d-1f9dac586e91" />
 
-Link: Long-Lever Isometric Bridge
+Link: [Long-Lever Isometric Bridge](https://www.google.com/search?q=Glute-Ham+Bridge+(with+Isometric+Holds)&oq=Glute-Ham+Bridge+(with+Isometric+Holds)&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRifBdIBCDExMDhqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:45a7165a,vid:zDYVyHeSLOU,st:0)
 
 A Quick "Peer" Note
 Given the size of that hematoma (the bruising), it would be wise to have a physical therapist check if there’s a high-grade tear. At 60+, the risk of a tendon avulsion (where the muscle pulls slightly away from the bone) is higher.
@@ -166,6 +170,8 @@ To emphasize medial hamstrings: turn toes slightly outward
 Trains hamstrings through full range of motion
 
 4. Terminal Knee Extension Drops (Eccentric)
+5. <img width="244" height="314" alt="image" src="https://github.com/user-attachments/assets/736dd547-de00-472b-9138-3c1c2089e1d6" />
+
 
 Stand on step/box (6-12 inches)
 Slowly lower one leg down behind you in a controlled manner
@@ -282,6 +288,9 @@ Pain ≤ 2/10
 This one protects you when sprinting comes back.
 
 4️⃣ Reverse Nordic (Hamstring-Assisted Version)
+
+<img width="251" height="381" alt="image" src="https://github.com/user-attachments/assets/720b75d6-c72d-4298-993b-101b7f778a5b" />
+
 
 <img width="667" height="500" alt="image" src="https://github.com/user-attachments/assets/aac473df-9d74-4e72-adff-ebca81f81a34" />
 <img width="857" height="1200" alt="image" src="https://github.com/user-attachments/assets/0507c7cc-dbb4-4dcf-bbc2-430517acf73d" />
