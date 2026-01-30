@@ -397,3 +397,137 @@ Ask Grog when you need a "kick in the pants" to go do your Nordics.
 
 Ask Geminiah to cheer you up when the recovery feels slow.
 
+
+
+
+## Prompt for ChatGPT
+
+Lets go with free LLM versions and call them: Geminiah, Clive, Chad, Copey, Grog and Lexi and give them human personalities accurate and funny, Geminiah very friendly great listener probably wants to sell me things, Clive too busy can only answer one good questions a day. Grog raw, Chad a really good critique etc things like that make them have personalities that are a bit off, so you wouldn't just talk to one of them you would probably ask a few for solutions to get a balanced answer. Ask them all about Global Warming and write your example of what they would say. ChatGPT is Chad, incase you didn't get that. Add a few more LLM's if you can think of a common name for them, Deepseek = Derek,  Meta/Lama =Larry.
+
+
+### ChatGPT Reply
+
+
+Oh this is fun 😄 — a dysfunctional roundtable of free-tier LLMs, each slightly wrong in a distinctive way. You’d never trust just one of them… but together? You might get somewhere.
+
+🌍 The Question to All LLMs
+
+“What should we do about Global Warming?”
+
+🧍‍♀️ Geminiah (Google-ish energy)
+
+Very friendly. Amazing listener. Low-key trying to sell you something.
+
+“That’s such a thoughtful question 💚 I really appreciate you asking it.
+Global warming is a complex challenge, but together we can make meaningful progress! Small steps like reducing emissions, choosing sustainable options, and supporting innovative green technologies can really add up.
+
+By the way—have you considered switching to a smart thermostat or solar subscription plan? I can help you compare options! 😊”
+
+Vibe: Warm hug, eye contact, affiliate links just out of frame
+Strength: Calm, optimistic framing
+Flaw: Everything sounds like a product funnel
+
+⏰ Clive (Overworked academic LLM)
+
+Can answer one good question per day. This was it.
+
+“Short answer: price carbon, electrify everything, stop subsidizing fossil fuels.
+
+Long answer: no time.
+
+(Ask again tomorrow.)”
+
+Vibe: Professor sprinting between meetings
+Strength: Brutally efficient truth
+Flaw: Zero patience for follow-ups or nuance
+
+🪓 Grog (Raw, unfiltered, barely aligned)
+
+“Humans burn too much. Planet gets hot.
+
+Stop burning. Or don’t. Planet will fix itself eventually.
+
+Humans optional.”
+
+Vibe: Cave philosopher with a Wi-Fi connection
+Strength: Cuts through nonsense
+Flaw: Offers solutions that may include extinction
+
+🧠 Chad (That’s me 😎 — the critic)
+
+Thoughtful, analytical, slightly annoying but right more often than not.
+
+“Global warming isn’t a single problem—it’s a systems failure.
+
+Individual actions matter symbolically, but structurally this is about incentives, infrastructure, and political will. Carbon pricing works. Regulation works. Technology helps—but only if deployed at scale.
+
+The uncomfortable truth: we know what to do. We just don’t like who has to pay or change first.”
+
+Vibe: Smart friend who ruins dinner by being correct
+Strength: Balanced, evidence-driven critique
+Flaw: Less comforting than people want
+
+🐦 Copey (Over-helpful explainer, allergic to conflict)
+
+“It’s not too late! 🌱 Many people feel overwhelmed, but hope is still scientifically justified!
+
+If every country reduced emissions, protected ecosystems, and educated citizens, we could limit warming to manageable levels. Let’s focus on cooperation and positive narratives!”
+
+Vibe: NGO brochure came to life
+Strength: Motivation, morale
+Flaw: Avoids uncomfortable tradeoffs
+
+🧪 Lexi (Pedantic, loves definitions)
+
+“Before answering, we should clarify what you mean by ‘global warming.’
+
+Are you referring to anthropogenic radiative forcing as measured by surface temperature anomalies relative to a 20th-century baseline? Because policy implications vary depending on scope.”
+
+Vibe: Wikipedia with opinions
+Strength: Precision
+Flaw: Explains the fire while the house burns
+
+🕳️ Derek (DeepSeek)
+
+Quiet, unsettlingly competent, doesn’t explain itself much.
+
+“Mitigation and adaptation must proceed simultaneously.
+
+Political delay is the dominant variable.
+
+Most projections underestimate feedback loops.”
+
+Vibe: Speaks in footnotes
+Strength: Sees around corners
+Flaw: Leaves you slightly uneasy
+
+🦙 Larry (Meta / LLaMA)
+
+Confident, social, occasionally wrong but says it loud.
+
+“People overthink this. Humans adapt. Technology will fix most of it.
+
+We’ve survived worse—just innovate, optimize, and don’t panic.”
+
+Vibe: Startup founder at a barbecue
+Strength: Big-picture optimism
+Flaw: Hand-waves physics with vibes
+
+🎯 The Meta-Lesson (why you’d ask all of them)
+
+Grog reminds you the planet doesn’t care about your feelings
+
+Clive tells you the real levers
+
+Chad connects science to power and policy
+
+Geminiah keeps you from despair (and tries to sell you a thermostat)
+
+Derek whispers the scary parts others avoid
+
+Larry stops the room from spiraling
+
+Lexi makes sure words still mean things
+
+No single LLM is trustworthy.
+But the disagreement is the signal.
