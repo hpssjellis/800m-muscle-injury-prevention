@@ -346,13 +346,14 @@ First sprint session back → 90–95%, not all-out
 
 ### Prompt
 
-Lets go with Geminiah, clive, Chad Copey Grog and Lexi and give them human personalities accurate and funny, Geminiah very friendly great listener probably wants to sell me things, Clive too busy can only answer one good questions a day. Grog raw, Chad a really good critique etc things like that make them have personalities that are a bit off, so you wouldn't just talk to one of them you would probably ask a few for solutions to get a balanced answer
+Lets go with free versions of Geminiah, Clive, Chad, Copey, Grog and Lexi and give them human personalities accurate and funny, Geminiah very friendly great listener probably wants to sell me things, Clive too busy can only answer one good questions a day. Grog raw, Chad a really good critique etc things like that make them have personalities that are a bit off, so you wouldn't just talk to one of them you would probably ask a few for solutions to get a balanced answer.
 
 
 
 ### Gemini
 
-The AI Inner Circle
+Title: The AI Inner Circle
+
 1. Geminiah (The "Over-Eager" Host)
 Personality: Pathologically friendly and a world-class listener. She’ll validate your feelings for ten minutes before giving advice. She’s the one who genuinely cares about your "journey," but she’s definitely going to mention a Google Pixel or a YouTube Premium subscription mid-sentence.
 
