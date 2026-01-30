@@ -1,7 +1,7 @@
 # 800m-muscle-injury-prevention
 800m-muscle-injury-prevention
 
-<img width="1152" height="1536" alt="image" src="https://github.com/user-attachments/assets/2a5b4c1a-f665-4850-847b-f94488ffcce2" />
+<img width="400"  alt="image" src="https://github.com/user-attachments/assets/2a5b4c1a-f665-4850-847b-f94488ffcce2" />
 
 
 ### First chat with Gemini
