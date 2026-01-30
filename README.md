@@ -16,7 +16,11 @@ Ouch, that looks like a significant bruise, likely indicating a grade 1 or 2 ham
 ​1. Focus on Eccentric Strength
 
 ​The hamstring usually fails when it is lengthening. You need to train it to handle that tension.
+
 ​Nordic Hamstring Curls: This is the gold standard for sprinters. Kneel on a pad with your ankles secured. Slowly lower your torso toward the floor, resisting with your hamstrings as long as possible.
+
+
+<img width="705" height="635" alt="image" src="https://github.com/user-attachments/assets/3ace4f88-e471-4c76-b76e-9063618bfaaa" />
 
 
 ​Eccentric Sliders: Lie on your back with your heels on sliders (or towels on a smooth floor). Bridge your hips up and slowly slide your feet away from your body until your legs are straight.
@@ -26,6 +30,7 @@ Ouch, that looks like a significant bruise, likely indicating a grade 1 or 2 ham
 
 
 ​Hamstrings often pull because they aren't strong enough at the end of their range of motion.
+
 ​Romanian Deadlifts (RDLs): Focus on a slow 3-second descent. Keep the bar close to your shins and only go as low as your flexibility allows while maintaining a flat back.
 ​Good Mornings: Similar to the RDL, but with the weight on your shoulders. This shifts the leverage and forces the hamstrings and lower back to work together.
 
@@ -33,6 +38,7 @@ Ouch, that looks like a significant bruise, likely indicating a grade 1 or 2 ham
 ​3. Unilateral (Single Leg) Stability
 
 ​Sprinting is a series of single-leg hops. If one side is weaker, it will compensate and snap.
+
 ​Single-Leg RDLs: This builds the stabilizer muscles around the hip and knee.
 ​B-Stance Deadlifts: A "kickstand" deadlift that allows you to overload one leg while using the other for just a bit of balance.
 
