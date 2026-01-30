@@ -42,6 +42,7 @@ Ouch, that looks like a significant bruise, likely indicating a grade 1 or 2 ham
 
 ​Single-Leg RDLs: This builds the stabilizer muscles around the hip and knee.
 ​B-Stance Deadlifts: A "kickstand" deadlift that allows you to overload one leg while using the other for just a bit of balance.
+<img width="370" height="412" alt="image" src="https://github.com/user-attachments/assets/dbe20a75-3d0f-4576-b0b7-9c4530a816f9" />
 
 
 ​4. Isometrics for Tendon Health
